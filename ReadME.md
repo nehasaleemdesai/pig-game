@@ -76,3 +76,13 @@ To run this project locally:
    ```
 
 2. Open the index.html file in your browser.
+
+##🤝 Contributing
+
+If you’d like to contribute to this project:
+
+- Fork the repository.
+- Create a feature branch: git checkout -b feature-branch
+- Commit changes: git commit -m "Add feature"
+- Push to your branch: git push origin feature-branch
+- Open a Pull Request.
