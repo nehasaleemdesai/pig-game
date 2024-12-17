@@ -33,7 +33,6 @@ You can play the Pig Game live here: [Pig Game](https://nehasaleemdesai.github.i
 - 🎲 Interactive dice rolling with animations.
 - 🔄 Dynamic player switching logic.
 - 📱 Clean and responsive UI design.
-- 📋 Clear game rules displayed for easy understanding.
 - 🔄 Game reset functionality.
 
 ---
@@ -55,6 +54,14 @@ You can play the Pig Game live here: [Pig Game](https://nehasaleemdesai.github.i
 - Building responsive interfaces with CSS.
 
 ---
+
+## 🚀 Future Features
+
+- 🏆 Leaderboard Integration: Add a scoring system with a leaderboard to display top players.
+- 🎨 Custom Themes: Allow users to switch between different themes or customize the game appearance.
+- 🎵 Sound Effects and Music: Integrate background music and sound effects for a more immersive experience.
+- 📱 Mobile Compatibility: Improve responsiveness for seamless gameplay on mobile devices.
+- 🔄 Game Save/Resume: Implement the ability to save game progress and resume later.
 
 ## 📬 Contact
 
