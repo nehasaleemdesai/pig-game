@@ -77,7 +77,7 @@ To run this project locally:
 
 2. Open the index.html file in your browser.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 If you’d like to contribute to this project:
 
